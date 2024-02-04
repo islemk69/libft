@@ -7,7 +7,7 @@ The `libft` project is a fundamental part of the 42 school curriculum, aimed at 
 - Over 60 standard C functions implemented (e.g., `memcpy`, `memset`, `strdup`, `atoi`, etc.).
 - Functions for linked list management (e.g., `ft_lstnew`, `ft_lstadd_front`, `ft_lstmap`, etc.).
 - String manipulation functions (e.g., `ft_strlen`, `ft_strcpy`, `ft_strjoin`, etc.).
-- Memory management functions (e.g., `ft_memalloc`, `ft_memdel`, etc.).
+- Memory management functions (e.g., `ft_realloc`, `ft_strdup`, etc.).
 - And much more.
 
 ## Getting Started
